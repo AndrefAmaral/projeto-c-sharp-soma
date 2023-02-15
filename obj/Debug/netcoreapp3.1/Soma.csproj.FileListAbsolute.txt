@@ -1,0 +1,13 @@
+C:\dev\Soma\bin\Debug\netcoreapp3.1\Soma.exe
+C:\dev\Soma\bin\Debug\netcoreapp3.1\Soma.deps.json
+C:\dev\Soma\bin\Debug\netcoreapp3.1\Soma.runtimeconfig.json
+C:\dev\Soma\bin\Debug\netcoreapp3.1\Soma.runtimeconfig.dev.json
+C:\dev\Soma\bin\Debug\netcoreapp3.1\Soma.dll
+C:\dev\Soma\bin\Debug\netcoreapp3.1\Soma.pdb
+C:\dev\Soma\obj\Debug\netcoreapp3.1\Soma.csprojAssemblyReference.cache
+C:\dev\Soma\obj\Debug\netcoreapp3.1\Soma.AssemblyInfoInputs.cache
+C:\dev\Soma\obj\Debug\netcoreapp3.1\Soma.AssemblyInfo.cs
+C:\dev\Soma\obj\Debug\netcoreapp3.1\Soma.csproj.CoreCompileInputs.cache
+C:\dev\Soma\obj\Debug\netcoreapp3.1\Soma.dll
+C:\dev\Soma\obj\Debug\netcoreapp3.1\Soma.pdb
+C:\dev\Soma\obj\Debug\netcoreapp3.1\Soma.genruntimeconfig.cache
